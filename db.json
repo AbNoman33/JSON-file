@@ -1,0 +1,122 @@
+
+ {
+    "students": [
+        {
+            "id" : 1,
+            "name": "Anisul Islam",
+            "age" : 10,
+            "married": true
+        },
+        {
+            "id" : 2,
+            "name": "Rahim",
+            "age" : 20,
+            "married": false
+        },
+        {
+            "id" : 3,
+            "name": "Mamun",
+            "age" : 30,
+            "married": true
+        },
+        {
+            "id" : 4,
+            "name": "Kamal",
+            "age" : 40,
+            "married": false
+        },
+        {
+            "id" : 5,
+            "name": "Karim",
+            "age" : 45,
+            "married": true
+        },
+        {
+            "id" : 6,
+            "name": "Jamal",
+            "age" : 15,
+            "married": true
+        },
+        {
+            "id" : 7,
+            "name": "Jony",
+            "age" : 23,
+            "married": false
+        },
+        {
+            "id" : 8,
+            "name": "Faruk",
+            "age" : 31,
+            "married": true
+        },{
+            "id" : 9,
+            "name": "Munira",
+            "age" : 13,
+            "married": false
+        },
+        {
+            "id" : 10,
+            "name": "Rubana",
+            "age" : 16,
+            "married": false
+        }
+    ],
+
+    "teachers" : [
+        {
+            "id" : 1,
+            "name": "Rabiul",
+            "age" : 30,
+            "retired": null
+        },
+        {
+            "id" : 2,
+            "name": "Ashraful Haque",
+            "age" : 35
+        },
+        {
+            "id" : 3,
+            "name": "Rony",
+            "age" : 42
+        },
+        {
+            "id" : 4,
+            "name": "Hasan",
+            "age" : 46
+        },
+        {
+            "id" : 5,
+            "name": "Jasim ",
+            "age" : 49
+        },
+        {
+            "id" : 6,
+            "name": "Sufia",
+            "age" : 48
+        },
+        {
+            "id" : 7,
+            "name": "Rahim",
+            "age" : 51
+        },
+        {
+            "id" : 8,
+            "name": "Jannat",
+            "age" : 70
+        },
+        {
+            "id" : 9,
+            "name": "Maruf",
+            "age" : 75
+        },
+        {
+            "id" : 10,
+            "name": "Suborna",
+            "age" : 80
+        }
+        
+
+    ]
+
+   
+}
